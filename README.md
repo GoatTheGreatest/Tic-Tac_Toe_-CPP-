@@ -35,8 +35,14 @@ You can play **1v1 against the CPU**, making it a fun and basic implementation t
    git clone https://github.com/GoatTheGreatest/Tic-Tac_Toe_-CPP-.git
    ```
 2. Change directory if needed:
+   ```
    cd Tic-Tac*Toe*-CPP-
+   ```
 3. Compile the code:
+   ```
    g++ tic_tac_toe.cpp -o tic_tac_toe
+   ```
 4. Run the game:
+   ```
    ./tic_tac_toe
+   ```
